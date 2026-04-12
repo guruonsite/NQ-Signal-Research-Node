@@ -1,7 +1,5 @@
+# Exclude heavy data logs
+/data/*.csv
+/data/*.json
 .env
 __pycache__/
-*.log
-.venv/
-# Private keys/credentials
-credentials.json
-token.json
