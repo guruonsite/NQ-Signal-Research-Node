@@ -1,1 +1,17 @@
 
+{
+  "signal_id": "NQ-20260508-074211-LONG",
+  "symbol": "/NQ",
+  "side": "LONG",
+  "strategy": "bullbearflag3",
+  "entry": 27896.75,
+  "stop": 27876.75,
+  "target": 27911.75,
+  "risk_ticks": 80,
+  "target_ticks": 60,
+  "confidence": 82,
+  "verdict": "favored",
+  "status": "active",
+  "timestamp_utc": "2026-05-08T14:42:11Z",
+  "chartshot_url": "https://guruonsite.net/chartshots/example.png"
+}
