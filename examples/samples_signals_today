@@ -1,0 +1,26 @@
+[
+  {
+    "signal_id": "NQ-20260508-074211-LONG",
+    "symbol": "/NQ",
+    "side": "LONG",
+    "strategy": "bullbearflag3",
+    "entry": 27896.75,
+    "stop": 27876.75,
+    "target": 27911.75,
+    "confidence": 82,
+    "status": "target_hit",
+    "timestamp_utc": "2026-05-08T14:42:11Z"
+  },
+  {
+    "signal_id": "NQ-20260508-082015-SHORT",
+    "symbol": "/NQ",
+    "side": "SHORT",
+    "strategy": "bullbearflag3",
+    "entry": 27920.25,
+    "stop": 27940.25,
+    "target": 27905.25,
+    "confidence": 78,
+    "status": "active",
+    "timestamp_utc": "2026-05-08T15:20:15Z"
+  }
+]
